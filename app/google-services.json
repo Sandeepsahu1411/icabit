@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "615492299765",
+    "project_id": "icabit-d17f1",
+    "storage_bucket": "icabit-d17f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615492299765:android:07c291c0210f688ec1cebc",
+        "android_client_info": {
+          "package_name": "com.example.icabit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFiWfv8T9eIZTMJ3gTQooposIGOO5Z4w4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

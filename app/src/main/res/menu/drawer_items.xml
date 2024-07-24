@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/home"
+        android:title="@string/menu_home" />
+    <item
+        android:id="@+id/change_pass"
+        android:icon="@drawable/lock"
+        android:title="@string/change_password" />
+    <item
+        android:id="@+id/Ticket"
+        android:icon="@drawable/ticket"
+        android:title="@string/my_journeys" />
+    <item
+        android:id="@+id/Star_Ticket"
+        android:icon="@drawable/ticket_star"
+        android:title="@string/job_complete" />
+    <item
+        android:id="@+id/wallet"
+        android:icon="@drawable/wallet"
+        android:title="@string/lost_jobs" />
+
+    <item
+        android:id="@+id/Job_cancellation"
+        android:icon="@drawable/bookmark"
+        android:title="@string/job_cancellation" />
+
+
+    <item
+        android:id="@+id/Settings"
+        android:icon="@drawable/nav_i6"
+        android:title="@string/settings" />
+
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/logout"
+        android:title="@string/logout" />
+
+
+</menu>
